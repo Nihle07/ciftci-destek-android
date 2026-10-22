@@ -1,0 +1,503 @@
+{
+  "source_archive": "MobilProjeÖdev2-20261022T062433Z-1-001.zip / TarimMobilProjesi.zip",
+  "files": [
+    {
+      "path": ".gitignore",
+      "source_sha256": "703238443066325af08e3868d1e4b571a633baf68fcc93e323f0066999a97e1b",
+      "package_sha256": "8c10fd91f102d0cac045237cd675190d818ec80b411d4bd7dbab786ea28b7c18",
+      "unchanged": false
+    },
+    {
+      "path": "app/.gitignore",
+      "source_sha256": "5c3174b74edc6f2b9e0743594b8bd3c7f31e4f4405758cc9872b3fe1de1d28b4",
+      "package_sha256": "5c3174b74edc6f2b9e0743594b8bd3c7f31e4f4405758cc9872b3fe1de1d28b4",
+      "unchanged": true
+    },
+    {
+      "path": "app/build.gradle",
+      "source_sha256": "86d1131aa3fc7d6a5a1a75e710740e7b279e28a93683a54afa0aa30ea4166b35",
+      "package_sha256": "dadbf3f89f4d901da5e3124ebcee0290aa70c4483f2b8a46f88fc771eb42ca32",
+      "unchanged": false
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "source_sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "package_sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/tarimmobilprojesi/ExampleInstrumentedTest.java",
+      "source_sha256": "f3329b14f378c4a2f79de98958a5d8a678148dab0ae359bda583fc64e8d658c4",
+      "package_sha256": "f3329b14f378c4a2f79de98958a5d8a678148dab0ae359bda583fc64e8d658c4",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "source_sha256": "348ca32bb371030357f3a8ebc9161ad77c372db11456a596760c7524b9f65ab5",
+      "package_sha256": "ccf7bd2b0278492608e679a3cf80722cf67ae4e4f01d0da4fc1255dfa2171fce",
+      "unchanged": false
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/AddPlaceActivity.java",
+      "source_sha256": "e9077b627ee75139cfa74540c9b6787d66a42ad30d2de730aa3c157befab17e7",
+      "package_sha256": "e9077b627ee75139cfa74540c9b6787d66a42ad30d2de730aa3c157befab17e7",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/AdminLoginActivity.java",
+      "source_sha256": "38cedbd3a4da3899a11028168ef772fa2d43bd0a72d69631d11d20cb816de614",
+      "package_sha256": "38cedbd3a4da3899a11028168ef772fa2d43bd0a72d69631d11d20cb816de614",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/AdminPanelActivity.java",
+      "source_sha256": "e59d244f18afca152d973cf41207c3ea0f7130ad826a41777e9c1a98728d34fa",
+      "package_sha256": "e59d244f18afca152d973cf41207c3ea0f7130ad826a41777e9c1a98728d34fa",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/First2Fragment.java",
+      "source_sha256": "69f5125b853949fb2d9de2a5a5531ab500f481fa249115a34e4b9eedb27e8eea",
+      "package_sha256": "69f5125b853949fb2d9de2a5a5531ab500f481fa249115a34e4b9eedb27e8eea",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/FirstFragment.java",
+      "source_sha256": "071d93bf6d02f75fa289eb3391f61d3089cfe638a3be437b93f6bfebee07b9c6",
+      "package_sha256": "071d93bf6d02f75fa289eb3391f61d3089cfe638a3be437b93f6bfebee07b9c6",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/MainActivity.java",
+      "source_sha256": "08b847243a2f476808afbda4d62104072ad7fc36756626247f12cf25d084a7b3",
+      "package_sha256": "08b847243a2f476808afbda4d62104072ad7fc36756626247f12cf25d084a7b3",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/MapsActivity.java",
+      "source_sha256": "04e9c8d1e3efafd3549375bc3cad9fba94289feb8add5aa0944e93bdd924fb9f",
+      "package_sha256": "04e9c8d1e3efafd3549375bc3cad9fba94289feb8add5aa0944e93bdd924fb9f",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/RegisterActivity.java",
+      "source_sha256": "9a0ad2d6798cf9a71d5af2324aabaecb42337a8cdf6719ae41f40d379d41989e",
+      "package_sha256": "9a0ad2d6798cf9a71d5af2324aabaecb42337a8cdf6719ae41f40d379d41989e",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/Second2Fragment.java",
+      "source_sha256": "b063094cffdab848f991569dd9dcce4aef33e06380bc7ba71282c9d573e7962f",
+      "package_sha256": "b063094cffdab848f991569dd9dcce4aef33e06380bc7ba71282c9d573e7962f",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/SecondFragment.java",
+      "source_sha256": "3258e9220f001e523491d855523c12d382b4b5fba1d97d93fe84d392851ad108",
+      "package_sha256": "3258e9220f001e523491d855523c12d382b4b5fba1d97d93fe84d392851ad108",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/UpdatePlaceActivity.java",
+      "source_sha256": "5729875d983baa32f78f179f0fbfd97677f2067ecd90c981d0cf03133583b4a2",
+      "package_sha256": "5729875d983baa32f78f179f0fbfd97677f2067ecd90c981d0cf03133583b4a2",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/java/com/example/tarimmobilprojesi/UserLoginActivity.java",
+      "source_sha256": "cf92a75abfbb43de604d2d4cccc17fceaf1254907587ae485a295b4b2a5531f2",
+      "package_sha256": "cf92a75abfbb43de604d2d4cccc17fceaf1254907587ae485a295b4b2a5531f2",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/baseline_logout_24.xml",
+      "source_sha256": "3dfde9004ee791c7ff8a3a69af7e092be5db40b71257d5d7722b3db4c284fd17",
+      "package_sha256": "3dfde9004ee791c7ff8a3a69af7e092be5db40b71257d5d7722b3db4c284fd17",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_auth_card.xml",
+      "source_sha256": "7f6d5bda6c9c0cc03b0ff083768f8757fe5961de799dee161d85e6e0e0fa7f60",
+      "package_sha256": "7f6d5bda6c9c0cc03b0ff083768f8757fe5961de799dee161d85e6e0e0fa7f60",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_auth_screen.xml",
+      "source_sha256": "ac15823f8155d4a6cfee0715516367591eac148a596f4641431b26c8695f7658",
+      "package_sha256": "ac15823f8155d4a6cfee0715516367591eac148a596f4641431b26c8695f7658",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_circle_logo.xml",
+      "source_sha256": "8b0d2a914534da823a880ccf3ace2ad0d60f237a92ee8e575535259b285176c9",
+      "package_sha256": "8b0d2a914534da823a880ccf3ace2ad0d60f237a92ee8e575535259b285176c9",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_input.xml",
+      "source_sha256": "dfe9986f070091da430750c1770bf1af0806be44dbc7314d53904091ddca1168",
+      "package_sha256": "dfe9986f070091da430750c1770bf1af0806be44dbc7314d53904091ddca1168",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_login_card.xml",
+      "source_sha256": "70ec9389ce1143c6d601c247c803428efc2e867969666e549544c3efbbbb80a0",
+      "package_sha256": "70ec9389ce1143c6d601c247c803428efc2e867969666e549544c3efbbbb80a0",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_main_gradient.xml",
+      "source_sha256": "30a34f34f29637e0d115874249d25e38c68769d9706c4d89a11604909d46f025",
+      "package_sha256": "30a34f34f29637e0d115874249d25e38c68769d9706c4d89a11604909d46f025",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_outline_button.xml",
+      "source_sha256": "7b2b58e30081406a1abbd74b3f684cc35bb058d2c3361182d107438bdb66f6da",
+      "package_sha256": "7b2b58e30081406a1abbd74b3f684cc35bb058d2c3361182d107438bdb66f6da",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_primary_button.xml",
+      "source_sha256": "655ade0740ae55017869d8718698d7c6e7ab3fe8c08f0361b4e7e2d037b95061",
+      "package_sha256": "655ade0740ae55017869d8718698d7c6e7ab3fe8c08f0361b4e7e2d037b95061",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_tab_container.xml",
+      "source_sha256": "b797a19d100a917a3c3da07d779ffffb6687a43b12ecca94f2c94f0c16b9a605",
+      "package_sha256": "b797a19d100a917a3c3da07d779ffffb6687a43b12ecca94f2c94f0c16b9a605",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/bg_tab_selected.xml",
+      "source_sha256": "a81ccd796add8e8e8070a3f5509ae53677237fc558287d3aa68fe319824bfdf9",
+      "package_sha256": "a81ccd796add8e8e8070a3f5509ae53677237fc558287d3aa68fe319824bfdf9",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+      "source_sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "package_sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "source_sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "package_sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_add_place.xml",
+      "source_sha256": "289116bfd13ab36998dfc8efbfffd0285407128b4c3a4689037995d3fccb29ef",
+      "package_sha256": "289116bfd13ab36998dfc8efbfffd0285407128b4c3a4689037995d3fccb29ef",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_admin_login.xml",
+      "source_sha256": "f1cf265f67aaffba57ffa184bbf3d5de5a570127f8dd2ebc81e502ed6199bfc4",
+      "package_sha256": "f1cf265f67aaffba57ffa184bbf3d5de5a570127f8dd2ebc81e502ed6199bfc4",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_admin_login2.xml",
+      "source_sha256": "7cf5f359b0f6131fa7d743819d9ec97785340b4a57602a17e98f31ba0a7626ab",
+      "package_sha256": "7cf5f359b0f6131fa7d743819d9ec97785340b4a57602a17e98f31ba0a7626ab",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_admin_panel.xml",
+      "source_sha256": "34ca7173119c3d646f1708e520edb49d136c80b63174dcfb59e7b66b5c1e99db",
+      "package_sha256": "34ca7173119c3d646f1708e520edb49d136c80b63174dcfb59e7b66b5c1e99db",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_main.xml",
+      "source_sha256": "43abf14ea2974ffa720d8a23ec561cdd44f9d15794ba06bdc31dee1f6ae9ea7a",
+      "package_sha256": "43abf14ea2974ffa720d8a23ec561cdd44f9d15794ba06bdc31dee1f6ae9ea7a",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_maps2.xml",
+      "source_sha256": "a45f06c989991d9f617a9894b3c6b5eca775ff8458fba21cab00071bed8a6095",
+      "package_sha256": "a45f06c989991d9f617a9894b3c6b5eca775ff8458fba21cab00071bed8a6095",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_register.xml",
+      "source_sha256": "6ac98765dd209f846ce1d700a200ce0c933a37d26481aae512bbaf8585add5cd",
+      "package_sha256": "6ac98765dd209f846ce1d700a200ce0c933a37d26481aae512bbaf8585add5cd",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_update_place.xml",
+      "source_sha256": "4a900700cf4a3d58e5860fd7256c6340fb77938586427af8fabf110637c8af84",
+      "package_sha256": "4a900700cf4a3d58e5860fd7256c6340fb77938586427af8fabf110637c8af84",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/activity_user_login.xml",
+      "source_sha256": "16ce05b4ac64d4b0162b8c1e365a4c941a993d78275a0558ec89ee1edf2438af",
+      "package_sha256": "16ce05b4ac64d4b0162b8c1e365a4c941a993d78275a0558ec89ee1edf2438af",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/content_add_place.xml",
+      "source_sha256": "46b6277860709ff8501ab4c5ef374ad4f52004cd292ee23e440c44669757a3f8",
+      "package_sha256": "46b6277860709ff8501ab4c5ef374ad4f52004cd292ee23e440c44669757a3f8",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_first.xml",
+      "source_sha256": "d30166c1d8304103478f51733890ae29260d31dd43d4da132299d20b43ccbb33",
+      "package_sha256": "d30166c1d8304103478f51733890ae29260d31dd43d4da132299d20b43ccbb33",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_first2.xml",
+      "source_sha256": "4f28b0f7d72862d1cad86c6f79b636bd0b723aff8fd91eccf0f194a6268807c3",
+      "package_sha256": "4f28b0f7d72862d1cad86c6f79b636bd0b723aff8fd91eccf0f194a6268807c3",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_second.xml",
+      "source_sha256": "d16fc6582c20ec751af1546a42bb5da52124aaf6ad84d838c0a8e425c24480f3",
+      "package_sha256": "d16fc6582c20ec751af1546a42bb5da52124aaf6ad84d838c0a8e425c24480f3",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/layout/fragment_second2.xml",
+      "source_sha256": "27c2e4ff425eef665f14777004afa712c8b28d37aaf22213262776ac8bbd8258",
+      "package_sha256": "27c2e4ff425eef665f14777004afa712c8b28d37aaf22213262776ac8bbd8258",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "source_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "package_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "source_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "package_sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+      "source_sha256": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+      "package_sha256": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+      "source_sha256": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+      "package_sha256": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+      "source_sha256": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+      "package_sha256": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+      "source_sha256": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+      "package_sha256": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+      "source_sha256": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+      "package_sha256": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+      "source_sha256": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+      "package_sha256": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+      "source_sha256": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+      "package_sha256": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+      "source_sha256": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+      "package_sha256": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+      "source_sha256": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+      "package_sha256": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+      "source_sha256": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+      "package_sha256": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/navigation/nav_graph.xml",
+      "source_sha256": "b63342889dac64ddac7a049e853c3f25c0d54ee4068ea41f310ca2d0bfeaa407",
+      "package_sha256": "b63342889dac64ddac7a049e853c3f25c0d54ee4068ea41f310ca2d0bfeaa407",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/navigation/nav_graph2.xml",
+      "source_sha256": "dd5bc115d6ce287c780bbb8ac8bc97277e4cc57d20cc99859f7605ee344ccea5",
+      "package_sha256": "dd5bc115d6ce287c780bbb8ac8bc97277e4cc57d20cc99859f7605ee344ccea5",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "source_sha256": "efb70d7499549a57cea32b00e790ef0632cb0c95cdaeefd16903c8cd12c889e4",
+      "package_sha256": "efb70d7499549a57cea32b00e790ef0632cb0c95cdaeefd16903c8cd12c889e4",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values/dimens.xml",
+      "source_sha256": "1f174a6e840745463d4e640b3d9f4f1a4410b68c973f27880b5d81775a55f5f3",
+      "package_sha256": "1f174a6e840745463d4e640b3d9f4f1a4410b68c973f27880b5d81775a55f5f3",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "source_sha256": "28fb182433a201bb5b95f5e1a1a2270877cc541468f15fb4ae108395f9a1600a",
+      "package_sha256": "28fb182433a201bb5b95f5e1a1a2270877cc541468f15fb4ae108395f9a1600a",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "source_sha256": "4af0838bb1b9f8a6a194e3d4fde353969a91f73c351323b0cc1ec8c007458628",
+      "package_sha256": "4af0838bb1b9f8a6a194e3d4fde353969a91f73c351323b0cc1ec8c007458628",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values-land/dimens.xml",
+      "source_sha256": "3efd84816b428a7af7ee473c70d6be22017b2358c33bb7a91fdf04f518cc7573",
+      "package_sha256": "3efd84816b428a7af7ee473c70d6be22017b2358c33bb7a91fdf04f518cc7573",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values-night/themes.xml",
+      "source_sha256": "9b7f233dbb9e13fdf11a21140168bf327df6db31c33e5c41120a1b22c116781e",
+      "package_sha256": "9b7f233dbb9e13fdf11a21140168bf327df6db31c33e5c41120a1b22c116781e",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values-v23/themes.xml",
+      "source_sha256": "4593ceac3807e1d12219fa2d399ddd042e6ac749164d64ccbe3a1c9e1cc9f24c",
+      "package_sha256": "4593ceac3807e1d12219fa2d399ddd042e6ac749164d64ccbe3a1c9e1cc9f24c",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values-w1240dp/dimens.xml",
+      "source_sha256": "d6887b19bf9d21f1cbd6b05226bc25079c1cfa455ab30e9cf66f46cc1837db70",
+      "package_sha256": "d6887b19bf9d21f1cbd6b05226bc25079c1cfa455ab30e9cf66f46cc1837db70",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/values-w600dp/dimens.xml",
+      "source_sha256": "3efd84816b428a7af7ee473c70d6be22017b2358c33bb7a91fdf04f518cc7573",
+      "package_sha256": "3efd84816b428a7af7ee473c70d6be22017b2358c33bb7a91fdf04f518cc7573",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/xml/backup_rules.xml",
+      "source_sha256": "6cf1a27e6807b1d24e41d3fbe7ddc1bfe1f42226027964f6eaf477d71b43b283",
+      "package_sha256": "6cf1a27e6807b1d24e41d3fbe7ddc1bfe1f42226027964f6eaf477d71b43b283",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "source_sha256": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+      "package_sha256": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+      "unchanged": true
+    },
+    {
+      "path": "app/src/test/java/com/example/tarimmobilprojesi/ExampleUnitTest.java",
+      "source_sha256": "7ac4e7a4e347d853ab5992f79680636f13aa6a7d156e7e86b7390004e626a84e",
+      "package_sha256": "7ac4e7a4e347d853ab5992f79680636f13aa6a7d156e7e86b7390004e626a84e",
+      "unchanged": true
+    },
+    {
+      "path": "build.gradle",
+      "source_sha256": "68f9caa111dd4a9bf78703cb2541b1c6aed53a47d5e4529424146c5919e9a999",
+      "package_sha256": "68f9caa111dd4a9bf78703cb2541b1c6aed53a47d5e4529424146c5919e9a999",
+      "unchanged": true
+    },
+    {
+      "path": "firestore.rules",
+      "source_sha256": "04c971793094ca5067c245e05ac9412b7aba69036f2ca9de246b7376d4f89340",
+      "package_sha256": "04c971793094ca5067c245e05ac9412b7aba69036f2ca9de246b7376d4f89340",
+      "unchanged": true
+    },
+    {
+      "path": "gradle/gradle-daemon-jvm.properties",
+      "source_sha256": "231649d2f8e8dc24310f18c921e3ae33fd2715b7f48a7ddcaf27a85003e0729a",
+      "package_sha256": "231649d2f8e8dc24310f18c921e3ae33fd2715b7f48a7ddcaf27a85003e0729a",
+      "unchanged": true
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "source_sha256": "8de1e5ff79438bb54eb2197d521fda9b7342d4128b2da8bd3fece9ccfdd6699f",
+      "package_sha256": "8de1e5ff79438bb54eb2197d521fda9b7342d4128b2da8bd3fece9ccfdd6699f",
+      "unchanged": true
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "source_sha256": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
+      "package_sha256": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
+      "unchanged": true
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "source_sha256": "db933a09024b355e4efacec4bc34e5bd02f69b35ef06576f7e6d7148626f787e",
+      "package_sha256": "db933a09024b355e4efacec4bc34e5bd02f69b35ef06576f7e6d7148626f787e",
+      "unchanged": true
+    },
+    {
+      "path": "gradle.properties",
+      "source_sha256": "e1f585fdeb0b7c7c1d22166c8712b02b950eb8ba99bd93488a5bec9561a8eebe",
+      "package_sha256": "e1f585fdeb0b7c7c1d22166c8712b02b950eb8ba99bd93488a5bec9561a8eebe",
+      "unchanged": true
+    },
+    {
+      "path": "gradlew",
+      "source_sha256": "3238afb2aed5cb16eb7d6718077e7138059108f007b54179e9cc157c5a6e0e89",
+      "package_sha256": "3238afb2aed5cb16eb7d6718077e7138059108f007b54179e9cc157c5a6e0e89",
+      "unchanged": true
+    },
+    {
+      "path": "gradlew.bat",
+      "source_sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b",
+      "package_sha256": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b",
+      "unchanged": true
+    },
+    {
+      "path": "settings.gradle",
+      "source_sha256": "7996d30affc98a12f75a9fcddd9cc7942580281dbea5c917b58374f17a4ffb44",
+      "package_sha256": "7996d30affc98a12f75a9fcddd9cc7942580281dbea5c917b58374f17a4ffb44",
+      "unchanged": true
+    }
+  ],
+  "excluded_file_count": 726,
+  "excluded_categories": [
+    "Gradle/IDE caches",
+    "build artifacts",
+    "local Firebase configuration",
+    "local SDK paths"
+  ],
+  "configuration_changes": [
+    "app/build.gradle",
+    "app/src/main/AndroidManifest.xml",
+    ".gitignore"
+  ]
+}
